@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	backend "github.com/ariffil/doors-backend"
+	backend "github.com/EpicCMoment/doors-backend"
 )
 
 func main() {
