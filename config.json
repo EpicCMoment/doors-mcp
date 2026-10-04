@@ -1,0 +1,9 @@
+{
+  "doorsPath": "C:\\Program Files\\IBM\\DOORS\\9.7\\bin\\doors.exe",
+  "host": "127.0.0.1",
+  "port": 61610,
+  "username": "",
+  "password": "",
+  "startupTimeoutSec": 60,
+  "keepProcess": false
+}
