@@ -1,0 +1,28 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+/bin/
+/dist/
+
+# Go workspace / vendor
+/vendor/
+go.work
+go.work.sum
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Local config / secrets
+config.local.json
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
