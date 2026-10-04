@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	backend "gitlab.com/ariffil/doors-backend"
+	backend "github.com/ariffil/doors-backend"
 )
 
 func main() {
